@@ -1,0 +1,10 @@
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\bin\Release\openshape.exe
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\bin\Release\openshape.pdb
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.Form1.resources
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.Properties.Resources.resources
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.csproj.GenerateResource.Cache
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.exe
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.pdb
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.csprojResolveAssemblyReference.cache
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.ExportMap.resources
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Release\openshape.AddField.resources

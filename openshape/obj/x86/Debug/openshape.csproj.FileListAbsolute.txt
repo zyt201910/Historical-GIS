@@ -1,0 +1,8 @@
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Debug\openshape.csprojResolveAssemblyReference.cache
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Debug\openshape.Form1.resources
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Debug\openshape.Properties.Resources.resources
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Debug\openshape.csproj.GenerateResource.Cache
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\bin\Debug\openshape.exe
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\bin\Debug\openshape.pdb
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Debug\openshape.exe
+D:\学习笔记\GIS二次开发\ArcGIS二次开发\demo\openshape\openshape\obj\x86\Debug\openshape.pdb
